@@ -18,7 +18,7 @@
 - 3d sim (SketchUp, Private use)
 
 ## NodeMCU
-  ![(devkit-v1.0 [NodeMCU])](official-nodemcu-development-board.jpg)
+  ! devkit-v1.0 [NodeMCU](official-nodemcu-development-board.jpg)
 - NodeMCU License [NodeMCU_LIC]
 
 
