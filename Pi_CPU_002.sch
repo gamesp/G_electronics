@@ -12969,15 +12969,21 @@ Source: http://www.st.com/stonline/products/literature/ds/7194/ld1117axx.pdf</de
 <wire x1="119.38" y1="175.26" x2="119.38" y2="114.3" width="0.1524" layer="95" style="shortdash"/>
 <wire x1="182.88" y1="114.3" x2="182.88" y2="53.34" width="0.1524" layer="95" style="shortdash"/>
 <text x="91.44" y="106.68" size="2.54" layer="97">NeoPixels</text>
-<text x="25.4" y="172.72" size="2.54" layer="97">Node MCU ESP8266</text>
+<text x="25.4" y="172.72" size="2.54" layer="97">NodeMCU DEVKIT V1.0</text>
 <text x="129.54" y="119.38" size="2.54" layer="97">I2C Bus Expander</text>
 <text x="200.66" y="119.38" size="2.54" layer="97">Open Collector Drivers</text>
 <text x="233.68" y="106.68" size="2.54" layer="97" rot="R270">Buzzer</text>
 <text x="55.88" y="43.18" size="2.54" layer="97">Power supply</text>
-<rectangle x1="101.6" y1="5.08" x2="149.86" y2="45.72" layer="203"/>
 <text x="111.76" y="22.86" size="2.54" layer="97">Battery charger.
 Battery controller.
 Steep-up</text>
+<text x="15.24" y="119.38" size="1.778" layer="97">https://github.com/nodemcu/nodemcu-devkit-v1.0</text>
+<wire x1="109.22" y1="38.1" x2="111.76" y2="38.1" width="0.1524" layer="90" style="dashdot"/>
+<wire x1="111.76" y1="38.1" x2="139.7" y2="38.1" width="0.1524" layer="90" style="dashdot"/>
+<wire x1="139.7" y1="38.1" x2="139.7" y2="15.24" width="0.1524" layer="90" style="dashdot"/>
+<wire x1="139.7" y1="15.24" x2="106.68" y2="15.24" width="0.1524" layer="90" style="dashdot"/>
+<wire x1="106.68" y1="15.24" x2="106.68" y2="38.1" width="0.1524" layer="90" style="dashdot"/>
+<wire x1="106.68" y1="38.1" x2="109.22" y2="38.1" width="0.1524" layer="90" style="dashdot"/>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
